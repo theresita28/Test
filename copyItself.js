@@ -1,4 +1,4 @@
-console.log("Test from JavaScript file1");
+console.log("Test Hello from JavaScript file1");
 console.log(__dirname);
 console.log(__filename);
 
